@@ -1,5 +1,5 @@
 
-# BI Dashboards – IARA
+# BI Dashboards
 
 Dashboard interativo criado no **Power BI**, responsável por **visualizar métricas e indicadores estratégicos** do ecossistema IARA.  
 O arquivo `.pbix` contém **painéis analíticos** que auxiliam na **tomada de decisões** com base em dados coletados dos módulos da plataforma.
